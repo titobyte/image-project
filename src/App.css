@@ -6,7 +6,7 @@
 }
 
 .logo {
-  height: 6em;
+  height: 2em;
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
@@ -34,9 +34,18 @@
 }
 
 .card {
-  padding: 2em;
+  padding: 3em;
 }
 
 .read-the-docs {
   color: #888;
 }
+
+.image-input {
+  margin-right: 25px;
+}
+
+.image-btn {
+  padding: 0px 0px 0px 15px;
+}
+
