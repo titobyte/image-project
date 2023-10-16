@@ -35,17 +35,24 @@
 
 .card {
   padding: 3em;
+  display: flex;
+  flex-direction: column;
+}
+
+.image-input {
+  margin-bottom: 25px;
+}
+
+.uploaded-image {
+  width: 350px;
 }
 
 .read-the-docs {
   color: #888;
 }
 
-.image-input {
-  margin-right: 25px;
-}
 
 .image-btn {
-  padding: 0px 0px 0px 15px;
+  padding: 0px 0px 15px 0px;
 }
 
